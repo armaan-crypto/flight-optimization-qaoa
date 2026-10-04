@@ -1,0 +1,9 @@
+# Large database (~35 GB)
+flights.db
+
+# Environments / caches
+.venv/
+**/.venv/
+__pycache__/
+*.pyc
+.DS_Store
